@@ -1,0 +1,4 @@
+export const CHANGE_FILE = "CHANGE_FILE";
+export const DELETE_FILE = "DELETE_FILE";
+export const CHANGE_QUERY = "CHANGE_QUERY";
+export const CHANGE_QUERY_GROUP = "CHANGE_QUERY_GROUP";

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Product sans';
+  src: url(./Product\ Sans\ Regular.ttf);
+}
+
+* {
+  font-family: 'Product sans';
+
+}
+
+body {
+  background: url(./pagebg.jpg) center center/cover fixed no-repeat;
+}
