@@ -7,7 +7,7 @@
     "@material-ui/lab": "^4.0.0-alpha.55",
     "cra-template": "1.0.3",
     "fuse.js": "^6.0.4",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.4.1"
